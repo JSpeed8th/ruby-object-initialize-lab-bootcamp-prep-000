@@ -5,5 +5,3 @@ class Person
   end
   
 end
-
-kate = Person.new("Kate")
